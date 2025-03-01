@@ -2,13 +2,13 @@
 <img src="https://i.imgur.com/Clzj7Xs.png" alt="osTicket logo"/>
 </p>
 
-<h1>osTicket - Post-Install Configuration</h1>
-This tutorial outlines the post-install configuration of the open-source help desk ticketing system osTicket.<br />
+<h1>osTicket - Ticket Lifecycle: Intake Through Resolution</h1>
+This tutorial outlines the lifecycle of a ticket from intake to resolution within the open-source help desk ticketing system osTicket.<br />
 
 
 <h2>Video Demonstration</h2>
 
-- ### [YouTube: How To Configure osTicket, post-installation](https://www.youtube.com)
+- ### [YouTube: How to create, work, and resolves tickets within osTicket](https://www.youtube.com)
 
 <h2>Environments and Technologies Used</h2>
 
@@ -20,16 +20,12 @@ This tutorial outlines the post-install configuration of the open-source help de
 
 - Windows 10</b> (21H2)
 
-<h2>Installation Steps</h2>
+<h2>Ticket Lifecycle Stages</h2>
 
-- Configure Roles (for grouping permissions)
-- Configure Departments (Ticket Visibility, Help Desk vs SysAdmins, vs Networking)
-- Configure Teams
-- Allow anyone to create tickets 
-- Configure Agents (workers)
-- Configure Users (customers)
-- Configure SLA
-- Configure Help Topics (For when users create a ticket)
+- Intake
+- Assignment and Communication
+- Working the Issue
+- Resolution
 
 <h2>Project Walk-through:</h2>
 
